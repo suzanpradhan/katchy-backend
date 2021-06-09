@@ -1,0 +1,1 @@
+Check the theme overrides documentation here: https://v3-docs.katchy.com/customization/theme.html#theme-overrides
